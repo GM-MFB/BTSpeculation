@@ -3,8 +3,6 @@ import { useState } from "react";
 function App() {
     const state = 0;
 
-    // todo: implement app
-
     return (
         <>
             <div>
