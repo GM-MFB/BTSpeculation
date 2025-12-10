@@ -1,0 +1,39 @@
+{
+  "account": [
+    {
+      "id": 1,
+      "balance": 100000
+    }
+  ],
+  "Equities": [
+    {
+      "id": "65a9",
+      "symbol": "HIMS",
+      "name": "Hims & Hers Health, Inc.",
+      "shares": 200,
+      "average_cost": 44.6
+    },
+    {
+      "id": "d43f",
+      "symbol": "BROS",
+      "name": "Dutch Bros Inc.",
+      "shares": 100,
+      "average_cost": 55.4
+    },
+    {
+      "id": "3496",
+      "symbol": "SMCI",
+      "name": "Super Micro Computer, Inc.",
+      "shares": 100,
+      "average_cost": 37.6
+    },
+    {
+      "id": "34ae",
+      "name": "Test",
+      "symbol": "TEST INC.",
+      "shares": 100,
+      "average_cost": 30,
+      "current_price": 40
+    }
+  ]
+}

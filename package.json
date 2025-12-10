@@ -5,6 +5,7 @@
   "type": "module",
   "scripts": {
     "start": "npm run dev",
+    "json-server": "npx json-server --watch public/db.json --port 3001",
     "dev": "vite",
     "build": "tsc -b && vite build",
     "lint": "eslint .",
